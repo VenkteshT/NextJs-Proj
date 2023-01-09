@@ -133,7 +133,7 @@
   font-size: 0.9em;
   margin-left: 20px;
 }
-@media (max-width: 500px) {
+@media (max-width: 520px) {
   .others span {
     font-size: 0.7em;
     font-weight: 500;
