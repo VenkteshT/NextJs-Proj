@@ -140,11 +140,10 @@
 
 .show_msg {
   position: absolute;
-  bottom: 0;
   left: 0;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: red;
   font-size: 1.2em;
-  display: block;
-  margin-left: 20%;
+  margin-left: 25%;
+  margin-top:198px;
 }
